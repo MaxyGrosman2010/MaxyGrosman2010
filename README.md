@@ -12,23 +12,26 @@
 ### to become a senior developer, and learn more about profession from a programming stand point to a leadership stand point.
 
 ## Technologies:
-### -JavaScript
--TypeScript
--C++
--CSS
--HTML
--React.JS
--Redux
--Next.JS
--Express.JS
--Sequelize.JS
--PosgreSQL
--Postman
+<div> 
+  -JavaScript
+  -TypeScript
+  -C++
+  -CSS
+  -HTML
+  -React.JS
+  -Redux
+  -Next.JS
+  -Express.JS
+  -Sequelize.JS
+  -PosgreSQL
+  -Postman
+</div>
 
 ## Contact information:
-### Email: maxygrosman@gmail.com
-LinkedIn: https://www.linkedin.com/in/maximiliano-g-b37459179/
-
+<div> 
+  Email: maxygrosman@gmail.com
+  LinkedIn: https://www.linkedin.com/in/maximiliano-g-b37459179/
+</div>
 <!--
 **MaxyGrosman2010/MaxyGrosman2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
