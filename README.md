@@ -6,7 +6,7 @@
 ### A Fullstack developer, who begun gaining interest on learning programming languages at the age of 8.
 
 ## I like to
-### learn more about different languages and the places where i can improve as a developer
+### learn more about different languages and the places where i can improve as a developer, particulary i like to work on the Back end
 
 ## I aim
 ### to become a senior developer, and learn more about profession from a programming stand point to a leadership stand point.
