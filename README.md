@@ -1,4 +1,4 @@
-                                                                Hi there!                                         
+Hi there!                                        
 Im Maximiliano Grosman, also know as MaxyGrosman2010
 
 Who am i?
@@ -10,6 +10,7 @@ Where am i going?
 Technologies:
 
 Contact information:
+
 <!--
 **MaxyGrosman2010/MaxyGrosman2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
