@@ -1,6 +1,7 @@
 ## Hi there!                                        
 
-## My name is Maximiliano Grosman, also know as MaxyGrosman2010.
+## My name is 
+Maximiliano Grosman, also know as MaxyGrosman2010.
 
 ## I'm 
 A Junior Fullstack developer, who begun gaining interest on learning programming languages at the age of 8.
