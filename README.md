@@ -12,7 +12,8 @@
 ### to become a senior developer, and learn more about profession from a programming stand point to a leadership stand point.
 
 ## Technologies:
-### -JavaScript
+### 
+-JavaScript
 -TypeScript
 -C++
 -CSS
@@ -26,7 +27,8 @@
 -Postman
 
 ## Contact information:
-### Email: maxygrosman@gmail.com
+### 
+Email: maxygrosman@gmail.com
 LinkedIn: https://www.linkedin.com/in/maximiliano-g-b37459179/
 
 <!--
