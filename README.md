@@ -1,18 +1,18 @@
-#Hi there!                                        
+# Hi there!                                        
 
-###Im Maximiliano Grosman, also know as MaxyGrosman2010.
+### Im Maximiliano Grosman, also know as MaxyGrosman2010.
 
-##I'm
-###A Fullstack developer, who begun gaining interest on learning programming languages at the age of 8.
+## I'm
+### A Fullstack developer, who begun gaining interest on learning programming languages at the age of 8.
 
-##I like to
-###learn more about different languages and the places where i can improve as a developer
+## I like to
+### learn more about different languages and the places where i can improve as a developer
 
-##I aim
-###to become a senior developer, and learn more about profession from a programming stand point to a leadership stand point.
+## I aim
+### to become a senior developer, and learn more about profession from a programming stand point to a leadership stand point.
 
-##Technologies:
-###-JavaScript
+## Technologies:
+### -JavaScript
 -TypeScript
 -C++
 -CSS
@@ -25,8 +25,8 @@
 -PosgreSQL
 -Postman
 
-##Contact information:
-##Email: maxygrosman@gmail.com
+## Contact information:
+### Email: maxygrosman@gmail.com
 LinkedIn: https://www.linkedin.com/in/maximiliano-g-b37459179/
 
 <!--
