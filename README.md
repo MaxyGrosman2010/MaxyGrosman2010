@@ -10,7 +10,7 @@ A Junior Fullstack developer, who begun gaining interest on learning programming
 learn more about different languages and the places where i can improve as a developer, particulary i like to work on the Back end
 
 ## I aim to 
-become a senior developer, if possible on the Backend, if not as a FullStack, and learn more about profession from a programming stand point to a leadership stand point. With the current short terms goals of not only getting my first job on web programming, but also learning Next.js, MongoDB, MySQL, Python, PhP among others languages.
+become a senior developer, if possible on the Backend, if not as a FullStack, and learn more about profession from a programming stand point to a leadership stand point. With the current short terms goals of not only getting my first job on web programming, but also learning MongoDB, MySQL, Python, PhP among others languages.
 
 ## Technologies:
 -JavaScript<br>
